@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/static/js/main.fd4c26af.chunk.js",
+    "main.js.map": "/static/js/main.fd4c26af.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.ae285c86.chunk.js": "/static/js/2.ae285c86.chunk.js",
+    "static/js/2.ae285c86.chunk.js.map": "/static/js/2.ae285c86.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.d8d11fc4b65b674d6a672b1c69cc59bd.js": "/precache-manifest.d8d11fc4b65b674d6a672b1c69cc59bd.js",
+    "service-worker.js": "/service-worker.js",
+    "static/media/LectoSord.png": "/static/media/LectoSord.748b78e2.png",
+    "static/media/Muybien.jpg": "/static/media/Muybien.2f25ae8e.jpg",
+    "static/media/feliz.png": "/static/media/feliz.0469271b.png",
+    "static/media/triste.png": "/static/media/triste.8c0b4eb4.png"
+  }
+}
