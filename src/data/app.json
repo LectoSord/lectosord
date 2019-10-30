@@ -1,0 +1,55 @@
+{
+    "proyectos": {
+        "name": "Cauca",
+        "temas": {
+            "name": "Comidas",
+            "conceptos": {
+                "file": "C:/Users/USUARIO/Desktop/imagenes/comidas.jpg",
+                "text": "Las comidas preferidas en este departamento son: Lorem ipsum dolor sit amet consectetur adipiscing elit elementum et purus mi, fames placerat fringilla cras aliquet id faucibus gravida ac lacus vestibulum, eros ultrices auctor semper suscipit egestas arcu himenaeos lacinia porttitor. Parturient arcu ridiculus magna viverra felis habitant enim accumsan in nullam dignissim, etiam dis convallis ut tempus vel habitasse nam turpis litora. Primis erat malesuada hendrerit interdum dui in fusce massa, magnis laoreet mus odio nisl ultricies tristique fermentum cum, nulla orci pulvinar habitasse class dis maecenas."
+            },
+            "practicas": {
+                "organizar": {
+                    "file": "C:/Users/USUARIO/Desktop/imagenes/caja.jpg",
+                    "file1": "C:/Users/USUARIO/Desktop/imagenes/celular.jpg",
+                    "file2": "C:/Users/USUARIO/Desktop/imagenes/iman.jpg",
+                    "file3": "C:/Users/USUARIO/Desktop/imagenes/lupa.jpg",
+                    "text1": "Caja",
+                    "text2": "Lupa",
+                    "text3": "Imán",
+                    "text4": "Celular"
+                },
+                "escribir": {
+                    "file_es": "C:/Users/USUARIO/Desktop/imagenes/montaña.jpg",
+                    "file_es2": "C:/Users/USUARIO/Desktop/imagenes/animales.jpg",
+                    "txtE": ""
+                },
+                "comprender": {
+                    "filec1": "C:/Users/USUARIO/Desktop/imagenes/iman.jpg",
+                    "filec2": "C:/Users/USUARIO/Desktop/imagenes/iman.jpg",
+                    "textc": "Lorem ipsum dolor sit amet consectetur adipiscing elit elementum et purus mi, fames placerat fringilla cras aliquet id faucibus gravida ac lacus vestibulum, eros ultrices auctor semper suscipit egestas arcu himenaeos lacinia porttitor. Parturient arcu ridiculus magna viverra felis habitant enim accumsan in nullam dignissim, etiam dis convallis ut tempus vel habitasse nam turpis litora. Primis erat malesuada hendrerit interdum dui in fusce massa, magnis laoreet mus odio nisl ultricies"
+                }
+            },
+            "evaluaciones": {
+                "organizar": {
+                    "file": "C:/Users/USUARIO/Desktop/imagenes/cama.jpg",
+                    "file1": "C:/Users/USUARIO/Desktop/imagenes/mesa.jpg",
+                    "file2": "C:/Users/USUARIO/Desktop/imagenes/casa.jpg",
+                    "file3": "C:/Users/USUARIO/Desktop/imagenes/flor.jpg",
+                    "text1": "Cama ",
+                    "text2": "Flor",
+                    "text3": "Mesa",
+                    "text4": "Casa"
+                },
+                "escribir": {
+                    "file_es": "C:/Users/USUARIO/Desktop/imagenes/celular.jpg",
+                    "file_es2": "C:/Users/USUARIO/Desktop/imagenes/cama.jpg"
+                },
+                "comprender": {
+                    "filec1": "C:/Users/USUARIO/Desktop/imagenes/animales.jpg",
+                    "filec2": "C:/Users/USUARIO/Desktop/imagenes/flor.jpg",
+                    "textc": "Lorem ipsum dolor sit amet consectetur adipiscing elit elementum et purus mi, fames placerat fringilla cras aliquet id faucibus gravida ac lacus vestibulum, eros ultrices auctor semper suscipit egestas arcu himenaeos lacinia porttitor. Parturient arcu ridiculus magna viverra felis habitant enim accumsan in nullam dignissim, etiam dis convallis ut tempus vel habitasse nam turpis litora. Primis erat malesuada hendrerit interdum dui in fusce massa, magnis laoreet mus odio nisl ultricies tristique fermentum cum, nulla orci pulvinar habitasse class dis maecenas."
+                }
+            }
+        }
+    }
+}
